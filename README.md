@@ -1,2 +1,2 @@
 # TruckMate
-smart patner for truck
+smart partner for truck
